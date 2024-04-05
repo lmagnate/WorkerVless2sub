@@ -21,9 +21,8 @@ let addressesnotls = [
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
 	‘time.cloudflare.com:80#卓越优选’
-'time.cloudflare.com:80#卓越优选'
-'shopify.com:80#卓越优选'
-'time.is:80#卓越优选'
+	'shopify.com:80#卓越优选'
+	'time.is:80#卓越优选'
 'icook.hk:80#卓越优选'
 'icook.tw:80#卓越优选'
 'ip.sb:80#卓越优选'
@@ -69,6 +68,8 @@ let addressesnotls = [
 'edtunnel-dgp.pages.dev:80#卓越优选'
 'www.d-555.com:80#卓越优选'
 'fbi.gov:80#卓越优选'
+	
+
 
 
 ];
