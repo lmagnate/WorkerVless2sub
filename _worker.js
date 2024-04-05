@@ -67,9 +67,7 @@ let addressesnotls = [
 	'www.iakeys.com:80#卓越优选',
 	'edtunnel-dgp.pages.dev:80#卓越优选',
 	'www.d-555.com:80#卓越优选',
-	'fbi.gov:80#卓越优选
-	'www.who.int:8880#官方优选域名',	'
-
+	'fbi.gov:80#卓越优选',
 ];
 
 // 设置优选noTLS地址api接口
